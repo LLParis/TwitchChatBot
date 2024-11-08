@@ -7,6 +7,7 @@ BOT_TOKEN = 'your_oauth_token'  # Replace with your bot's OAuth token
 USERNAME = 'your_username'  # Replace with your bot's username
 CHANNEL = 'kai_cenat'  # Channel you want to chat in
 
+
 # Base messages with placeholders for easy variation
 BASE_MESSAGES = [
     "Yo Kai, let Quavo shine! The side characters gotta chill for a sec! {}",
